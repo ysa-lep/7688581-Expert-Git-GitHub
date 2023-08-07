@@ -33,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deploiement
+## Deployment
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,10 +54,10 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-O.C
+* **Non spécifié**
 
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
 
-## Ajout de conflit
+## Et un conglit !
